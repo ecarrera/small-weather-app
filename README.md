@@ -2,6 +2,14 @@
 
 A simple weather application built with Vue 3, TypeScript, and Vite.
 
+### Desktop
+
+![Screen Recording 2024-09-17 at 01 13 35](https://github.com/user-attachments/assets/98ac35b5-7bcd-4914-97ff-342135571a42)
+
+### Mobile
+
+<img src="https://github.com/user-attachments/assets/c461ffd0-d403-4141-9beb-eea41ed0a94b" width="400">
+
 ## Features
 
 - Fetch and display weather data using OpenWeatherMap API
@@ -58,3 +66,5 @@ To start the development server:
 ```bash
 npm run dev
 ```
+
+
