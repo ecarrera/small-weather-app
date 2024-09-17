@@ -1,0 +1,16 @@
+:root {
+    font-family: 'Roboto';
+    background-color: #008ab8
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}

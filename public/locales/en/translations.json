@@ -1,0 +1,17 @@
+{
+  "general": {
+    "appName": "Simple Weather",
+    "nextHours": "Next hours",
+    "nextDays": "Next {{count}} days",
+    "lastUpdated": "Last updated on {{date}}",
+    "search": "search",
+    "close": "close",
+    "clear": "clear"
+  },
+  "searchModal": {
+    "title": "Select City",
+    "input": {
+      "placeholder": "Search city..."
+    }
+  }
+}
